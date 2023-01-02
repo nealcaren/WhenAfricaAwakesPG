@@ -1,0 +1,51 @@
+#!/bin/bash
+
+# markdown to html all the files
+
+mkdir temp_html
+
+pandoc -f markdown -o temp_html/00-Introductory.html 00-Introductory.md
+pandoc -f markdown -o temp_html/01-Beginnings.html 01-Beginnings.md
+pandoc -f markdown -o temp_html/02-Democracy.html 02-Democracy.md
+pandoc -f markdown -o temp_html/03-Negro_and_War.html 03-Negro_and_War.md
+pandoc -f markdown -o temp_html/04-New_Politics.html 04-New_Politics.md
+pandoc -f markdown -o temp_html/05-Problems_of_Leadership.html 05-Problems_of_Leadership.md
+pandoc -f markdown -o temp_html/06-New_Race_Consciousness.html 06-New_Race_Consciousness.md
+pandoc -f markdown -o temp_html/07-Our_International_Consciousness.html 07-Our_International_Consciousness.md
+pandoc -f markdown -o temp_html/08-Education_and_the_Race.html 08-Education_and_the_Race.md
+pandoc -f markdown -o temp_html/09-A_Few_Books.html 09-A_Few_Books.md
+
+
+# Create new file
+
+rm html/index.html
+
+cat html_preface.html \
+    temp_html/00-Introductory.html \
+    temp_html/01-Beginnings.html \
+    temp_html/02-Democracy.html \
+    temp_html/03-Negro_and_War.html \
+    temp_html/04-New_Politics.html \
+    temp_html/05-Problems_of_Leadership.html \
+    temp_html/06-New_Race_Consciousness.html \
+    temp_html/07-Our_International_Consciousness.html \
+    temp_html/08-Education_and_the_Race.html \
+    temp_html/09-A_Few_Books.html \
+    html_suffix.html \
+    >> html/index.html
+
+# tidy -f errs.txt  -config tidy_config.txt -m html/index.html
+
+# remove temp directory
+rm -R temp_html 
+
+# Create plain text version
+pandoc -f html -t plain  -o index.txt html/index.html 
+
+
+# Create zip
+rm waa_pg.zip
+cd html/ && zip waa_pg.zip  index.html images/*.jpg
+cd ..
+cp html/waa_pg.zip waa_pg.zip
+rm html/waa_pg.zip
