@@ -249,7 +249,6 @@ Gentlemen: During 1917 the white leaders of the
 Republican party were warned that the Negroes of this
 city were in a mood unfavorable to the success of their
 party at the polls and that this mood was likely to last
-
 until they changed their party’s attitude toward the Negro
 masses. They scouted this warning because the Negroes
 whom they had selected to interpret Negro sentiment for
@@ -286,7 +285,6 @@ taught that while white people spoke of patriotism, religion,
 democracy and other sounding themes, they remained 
 loyal to one concept above all others, and that was
 the concept of race. Even in the throes of war, and on
-
 the battlefields of France it was “race first” with them.
 Out of this realization was born the new Negro ideal
 of “race first” for us. And today, whether Negroes be
@@ -706,7 +704,8 @@ It thrills because
 </div>
 
 <p class="noindent">and you, young Negro Men of America, you are striving
-to give the gift of manhood to this race of ours.
-The future belongs to the young men. &mdash;January, 1919.</p>
+to give the gift of manhood to this race of ours.</p>
+
+The future belongs to the young men. &mdash;January, 1919.
 
 </div>

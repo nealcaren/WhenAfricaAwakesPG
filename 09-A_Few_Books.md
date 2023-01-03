@@ -391,7 +391,7 @@ holds that his race is doomed. “If the present drift be not
 changed we whites are all ultimately doomed. Unless we set our
 house in order the doom will sooner or later overtake us all.”
 The present reviewer stakes his money on “the doom,” for the
-white race’s disease is an ingrowing one whose development.
+white race’s disease is an ingrowing one whose development 
 inheres in their very nature. They are so singularly constituted
 that they would rather tear themselves to pieces parading as the
 lords of creation than see any other people achieve an equal

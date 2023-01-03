@@ -973,7 +973,7 @@ thought which is inflaming the international underworld, not a
 word appears in the parochial press of America, which seems
 to think that if it can keep its own Negroes down to servile lip-service, 
 it need not face the world-wide problem of the “Conflict
-of Color,” as Mr, Putnam-Weale calls it.
+of Color,” as Mr. Putnam-Weale calls it.
 
 But that the more intelligent portions of the white world are
 becoming distressingly conscious of it, is evident from the first

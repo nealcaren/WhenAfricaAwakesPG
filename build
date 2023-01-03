@@ -18,7 +18,7 @@ pandoc -f markdown -o temp_html/09-A_Few_Books.html 09-A_Few_Books.md
 
 # Create new file
 
-rm html/index.html
+rm html/waa.html
 
 cat html_preface.html \
     temp_html/00-Introductory.html \
@@ -32,7 +32,7 @@ cat html_preface.html \
     temp_html/08-Education_and_the_Race.html \
     temp_html/09-A_Few_Books.html \
     html_suffix.html \
-    >> html/index.html
+    >> html/waa.html
 
 # tidy -f errs.txt  -config tidy_config.txt -m html/index.html
 
@@ -40,12 +40,12 @@ cat html_preface.html \
 rm -R temp_html 
 
 # Create plain text version
-pandoc -f html -t plain  -o index.txt html/index.html 
+pandoc -f html -t plain+gutenberg  -o html/waa.txt html/waa.html 
 
 
 # Create zip
 rm waa_pg.zip
-cd html/ && zip waa_pg.zip  index.html images/*.jpg
+cd html/ && zip waa_pg.zip  waa.txt waa.html images/*.jpg
 cd ..
 cp html/waa_pg.zip waa_pg.zip
 rm html/waa_pg.zip
