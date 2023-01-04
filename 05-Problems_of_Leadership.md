@@ -58,8 +58,9 @@ chapter 6.]
 This country of ours has produced many curious lines
 of endeavor, not the least curious of which is the business
 known as “being the Negro’s friend.” It was first invented
-by politicians, but was taken up later by “good” men, sixper-cent
- philanthropists, millionaire believers in “industrial
+by politicians, but was taken up later by “good” men, 
+six-per-cent
+philanthropists, millionaire believers in “industrial
 education,” benevolent newspapers like the *Evening Post*,
 and a host of smaller fry of the “superior race.” Just at
 this time the business is being worked to death, and we
@@ -561,7 +562,7 @@ was called under the assumed auspices of Emmet Scott
 and Major Spingarn. Then it began to appear that these
 editors had not been called without a purpose. The
 desperate ambiguity of the language which they used in
-their report in the War Department Bulletin), coupled
+their report (in the War Department Bulletin), coupled
 with the fact that not one of them, upon his return would
 tell the people anything of the proceedings of the conference&mdash;all 
 this made the Negroes feel less and less confidence 
@@ -573,7 +574,7 @@ Now Du Bois was one of the most prominent of those
 editors “who were called.” The responsibility, therefore,
 for a course of counsel which stresses the servile virtues
 of acquiescence and subservience falls squarely on his
-shoulders. The offer of a captaincy and Du Bois’s firtation 
+shoulders. The offer of a captaincy and Du Bois’s flirtation 
 with that offer following on the heels of these things
 seemed, even in the eyes of his associate members of the
 N.A.A.C.P. to afford clear proof of that which was
@@ -681,7 +682,7 @@ and not behind, them,
 
 <div class="poetry">
 <div class="stanza">
-<div class="verse leadingquote ">“It takes a mind like Willum’s [fact!) ez big as all outdoors</div>
+<div class="verse leadingquote ">“It takes a mind like Willum’s [fact!] ez big as all outdoors</div>
 <div class="verse">To find out thet it looks like rain arter it fairly pours.”</div>
 </div>
 </div>

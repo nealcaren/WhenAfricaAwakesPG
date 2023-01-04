@@ -100,7 +100,7 @@ insistence reaches our inner consciousness and we decide
 that perhaps after all we do need a biscuit. At any rate,
 whenever we have biscuits to buy it is natural that the
 biscuit which has been most persistently advertised should
-recur at once to our minds and that we should uy that
+recur at once to our minds and that we should buy that
 particular biscuit.
 
 We beg to call the above apologue to the attention of
@@ -411,7 +411,7 @@ It is high time that the Negro people of the United
 States call the hand of Josephus Daniels by appealing to
 the Legislature of the United States to resume its political 
 functions, investigate this high-handed outrage 
-nd impeach the Secretary of the Navy of high
+and impeach the Secretary of the Navy of high
 crimes and misdemeanors against the peace and good
 name of the United States. The ordinary excuse of
 cowards will not obtain in this case. We would not be
@@ -585,7 +585,7 @@ French or British loan in the United States; when Messrs.
 Wilson, Clemenceau, Lloyd George and Orlando want to
 stabilize their joint credit and commerce; when areas like
 the Belgian Congo are to be handed over to certain rulers
-without the consent of their inhabitants—then the paans
+without the consent of their inhabitants—then the pæans
 of praise go up to the god of “internationalism” in the
 temple of “civilization.” But when any portion of the
 world’s disinherited (whether white or black) seeks to
@@ -926,7 +926,7 @@ present, the superior race of the world. I use the word “superior”
 in no cloudy, metaphysical sense, but simply to mean that they
 are on top and their will goes&mdash;at present. Consider this fact
 as the pivotal fact of the war. Then, in the light of it, consider
-what is happening in Europe today. The white race is superiorits 
+what is happening in Europe today. The white race is superior&mdash;its 
 will goes&mdash;because it has invented and amassed greater means
 for the subjugation of nature and of man than any other race. It
 is the top dog by virtue of its soldiers, guns, ships, money, resources 
@@ -934,7 +934,7 @@ and brains. Yet there in Europe it is deliberately burning
 up, consuming and destroying these very soldiers, guns,
 ships, money, resources and brains, the very things upon which
 its supremacy rests. When this war is over, it will be less able
-to enforce its sovereign will upon the darker races of the worid.
+to enforce its sovereign will upon the darker races of the world.
 Does any one believe that it will be as easy to hold down Egypt
 and India and Persia after the war as it was before? Hardly.
 

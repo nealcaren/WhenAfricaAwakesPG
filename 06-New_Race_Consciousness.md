@@ -27,7 +27,7 @@ view. A classic illustration of this kind of knowledge was
 afforded by the Republican Party; but the Episcopal
 Church, the Urban League, or the U. S. Government
 would serve as well. Today the white world is vaguely,
-but disquietingly, aware that Negroes are awake, different
+but disquietingly, aware that Negroes are awake; different,
 and perplexingly uncertain. Yet the white world by
 which they are surrounded retains its traditional method
 of interpreting the mass by the Negro nearest to themselves 
